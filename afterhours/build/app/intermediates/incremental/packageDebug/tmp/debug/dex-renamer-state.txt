@@ -1,0 +1,4 @@
+#Sat May 09 04:49:28 EDT 2020
+base.0=D\:\\WP\\FP\\bro\\afterhours\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
